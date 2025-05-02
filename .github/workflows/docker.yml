@@ -3,7 +3,8 @@
 
 ### 🔧 GitHub Actions Workflow: `.github/workflows/docker.yml`
 
-```yaml
+---
+
 name: Build and Push Docker Image
 
 on:
